@@ -1,6 +1,51 @@
 # TASTYBYTE😋
 
 
+
+
+<img width="1464" alt="Screenshot 2024-03-27 at 10 08 56 AM" src="https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/309d2ad0-b6e4-4b62-b62b-edc00c968785">
+
+<img width="1464" alt="Screenshot 2024-03-27 at 10 09 05 AM" src="https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/93edb23c-cf3b-4da9-a97e-209531c4aa94">
+
+
+
+<img width="1464" alt="Screenshot 2024-03-27 at 10 09 13 AM" src="https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/6df475d9-c7b3-4d13-ab58-775da10e65c0">
+
+<img width="1464" alt="Screenshot 2024-03-27 at 10 09 24 AM" src="https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/bb47782b-9baf-4a14-aa3b-cae55519b9c0">
+
+
+![WhatsApp Image 2024-03-27 at 10 15 58 AM](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/a89c8f6f-1281-4113-9798-29c735d7424e)
+
+
+
+![WhatsApp Image 2024-03-27 at 10 15 59 AM (1)](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/e06c4dab-cc47-4fde-b893-5bf1d296b904)
+
+
+![WhatsApp Image 2024-03-27 at 10 15 59 AM (2)](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/b336c266-3b70-4a1d-b577-ec98de404e76)
+
+![WhatsApp Image 2024-03-27 at 10 15 59 AM](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/c92501bf-3bce-4ff9-948f-392f0c92578d)
+![WhatsApp Image 2024-03-27 at 10 16 00 AM](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/aaff0b7c-6b44-4466-89a6-c546b8e02f0a)
+
+![WhatsApp Image 2024-03-27 at 10 16 00 AM (1)](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/9e70cce5-c0ed-475e-9b2a-39ac7b8eeff9)
+
+![WhatsApp Image 2024-03-27 at 10 16 00 AM (2)](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/50033215-69f4-4ee9-a593-1a3b34966448)
+
+![WhatsApp Image 2024-03-27 at 10 16 01 AM](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/3b99264a-2ee5-4cf4-9a41-9313c6503974)
+![WhatsApp Image 2024-03-27 at 10 16 01 AM (1)](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/9217d297-7b15-4805-810e-21ecaf3188ab)
+
+
+![WhatsApp Image 2024-03-27 at 10 16 01 AM (2)](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/e46a0445-91eb-46c1-9365-86a4913f6d8f)
+
+
+![WhatsApp Image 2024-03-27 at 10 16 02 AM](https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/e567dbef-9edb-488f-9b62-879e2b4a7cbc)
+
+
+
+
+
+
+
+
 # JOURNEY FOR TASTYBYTE ✈️
  ## INTRODUCTION  
 TastyBite.com is a startup that aims to revolutionize the food
@@ -44,6 +89,11 @@ With determination, Maya navigates through the straightforward subscription proc
 
 
 
+
 # BUSINESS MODEL
 
 <img width="859" alt="Screenshot 2024-03-27 at 9 29 42 AM" src="https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/f4d321d2-4680-4320-ae2d-110d0669557d">
+[TASTYBYTE 2.pptx](https://github.com/Md-MozammilAshraf/TASTYBYTE/files/14767496/TASTYBYTE.2.pptx)
+[TASTYBYTE 2.pptx](https://github.com/Md-MozammilAshraf/TASTYBYTE/files/14767623/TASTYBYTE.2.pptx)
+
+
