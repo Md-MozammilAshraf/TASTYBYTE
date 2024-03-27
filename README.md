@@ -1,48 +1,49 @@
 # TASTYBYTE😋
 
 
-Here's a journey map for TastyBite.com, outlining the key steps and touchpoints a customer might encounter from discovering the service to becoming a loyal subscriber:
+# JOURNEY FOR TASTYBYTE ✈️
+ ## INTRODUCTION  
+TastyBite.com is a startup that aims to revolutionize the food
+service industry by providing delicious and convenient meal
+options specifically tailored for individuals staying in rooms,
+PGs, hostels, and similar accommodations. Our primary
+offering is an annual subscription plan that ensures customers
+have access to affordable and high-quality meals throughout
+the year.
+We firmly believe that good food should be accessible to
+everyone without the burden of exorbitant prices. Therefore,
+our pricing strategy is designed to be reasonable and
+competitive, allowing customers to enjoy mouth-watering
+meals without straining their budgets. We understand the
+importance of maintaining the quality of our food, and we
+prioritize sourcing fresh ingredients and employing skilled
+chefs to create delectable dishes that meet our customers'
+expectations.
+Convenience is a key aspect of our service. By subscribing to
+TastyBite.com, customers can eliminate the hassle of meal
+planning, grocery shopping, and cooking. Our dedicated team
+takes care of every aspect, from meal preparation to delivery,
+9
+ensuring that customers can save valuable time and energy.
+We understand the busy lifestyles of our target audience, and
+our aim is to provide them with a seamless and stress-free
+food experience.
 
-## Awareness:
+## Field Work Review
+MAYA, a recent graduate, moves to the city for her new job. She settles into a paying guest accommodation, excited but also daunted by the fast-paced lifestyle. One day, while scrolling through her social media feed, she comes across an ad for TastyBite.com. Intrigued by the promise of convenient, affordable meals tailored for individuals like her living in shared accommodations, Maya decides to explore further.
+Curious, Maya visits the TastyBite.com website. As she navigates through the menu options and subscription plans, she realizes the potential of having delicious, chef-prepared meals delivered to her doorstep without the hassle of grocery shopping and cooking. The affordability and variety of cuisines offered catch her attention, especially considering her tight budget and limited cooking facilities in the shared kitchen of her accommodation.
+Maya deliberates over her dining options, weighing the benefits of subscribing to TastyBite.com against her current routine of quick, often unsatisfying meals cooked hastily in the communal kitchen. She reads reviews from fellow residents who praise the convenience and quality of TastyBite.com's meals, ultimately swaying her decision. Maya decides to take the plunge and subscribe to TastyBite.com's annual plan, eager to simplify her dining experience and savor delicious meals without breaking the bank.
 
-Potential customers become aware of TastyBite.com through various channels such as social media, online advertisements, word of mouth, or organic search results.
-They are attracted by the promise of delicious, convenient, and affordable meal options tailored for their lifestyle.
-Research and Consideration:
 
-Customers visit the TastyBite.com website to learn more about the service, subscription plans, menu options, and pricing.
-They read customer testimonials and reviews to gauge the quality of meals and customer satisfaction.
-Customers compare TastyBite.com with other meal delivery services to assess its value proposition and unique features.
+With determination, Maya navigates through the straightforward subscription process on the TastyBite.com website. She selects her preferred plan, provides her dietary preferences, and enters her delivery address with ease. The seamless process aligns perfectly with Maya's busy lifestyle, sparing her the hassle of lengthy administrative tasks.
 
-## Decision Making:
 
-After evaluating their options, customers decide to subscribe to TastyBite.com's annual plan.
-They may be swayed by the diverse menu offerings, commitment to quality, and convenience of not having to cook or shop for groceries.
 
-## Subscription Process:
 
-Customers navigate through a straightforward and user-friendly subscription process on the website.
-They select their preferred subscription plan, provide necessary information such as delivery address and dietary preferences, and complete the payment process securely.
 
-## Meal Delivery:
 
-Once subscribed, customers eagerly anticipate their first meal delivery.
-TastyBite.com ensures timely delivery of meals to the customer's doorstep, adhering to the promised schedule.
-Customers receive their meals in eco-friendly packaging, further enhancing the brand's commitment to sustainability.
 
-## Meal Experience:
 
-Customers enjoy the convenience of having delicious, chef-prepared meals ready to eat without any effort.
-They savor the flavors of diverse cuisines and appreciate the freshness and quality of ingredients.
-TastyBite.com's meals exceed their expectations, reaffirming their decision to subscribe.
-## Feedback and Engagement:
+# BUSINESS MODEL
 
-TastyBite.com actively solicits feedback from customers through surveys, email communications, or in-app notifications.
-Customers appreciate the opportunity to share their thoughts and suggestions, knowing that their input is valued.
-The company uses this feedback to iterate on menu offerings, improve service quality, and address any concerns promptly.
-
-## Customer Loyalty:
-
-Over time, customers develop a strong sense of loyalty towards TastyBite.com due to its consistent delivery of delicious meals and exceptional customer service.
-They renew their subscriptions and may even refer friends and family, contributing to the growth of the customer base.
-TastyBite.com maintains regular communication with customers, offering exclusive deals, promotions, and personalized recommendations based on their preferences.
-By focusing on each stage of the customer journey and continuously enhancing the overall experience, TastyBite.com can build a loyal customer base and establish itself as a go-to solution for convenient, affordable, and delicious food services.
+<img width="859" alt="Screenshot 2024-03-27 at 9 29 42 AM" src="https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/f4d321d2-4680-4320-ae2d-110d0669557d">
