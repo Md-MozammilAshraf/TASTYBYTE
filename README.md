@@ -93,7 +93,6 @@ With determination, Maya navigates through the straightforward subscription proc
 # BUSINESS MODEL
 
 <img width="859" alt="Screenshot 2024-03-27 at 9 29 42 AM" src="https://github.com/Md-MozammilAshraf/TASTYBYTE/assets/127433098/f4d321d2-4680-4320-ae2d-110d0669557d">
-[TASTYBYTE 2.pptx](https://github.com/Md-MozammilAshraf/TASTYBYTE/files/14767496/TASTYBYTE.2.pptx)
-[TASTYBYTE 2.pptx](https://github.com/Md-MozammilAshraf/TASTYBYTE/files/14767623/TASTYBYTE.2.pptx)
+
 
 
